@@ -1,0 +1,6 @@
+fs
+torch
+numpy
+hydra-core
+tensorflow
+tensorboard
